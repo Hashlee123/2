@@ -1,3 +1,5 @@
+// This file is now deprecated. Please use app.ts as the main entry point.
+
 import express from "express";
 import mongoose from "mongoose";
 import jwt from "jsonwebtoken";

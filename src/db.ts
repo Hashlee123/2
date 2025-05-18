@@ -1,3 +1,5 @@
+// This file is now deprecated. Please use models/user.model.ts and models/content.model.ts instead.
+
 import mongoose, {model ,Schema} from "mongoose"
 
 const UserSchema = new Schema({
